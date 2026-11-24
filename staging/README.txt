@@ -2,3 +2,5 @@ Local: extract files together, run python -m http.server 8080, open http://local
 Full screen: select itinerary route and transport mode. More alternative routes displays guidance to Open Google Map. Google iframe clicks cannot be intercepted. No additional routing API or key required.
 
 Full-screen navigation: the alternative routes button and alert are replaced by a visible information label beside Open Google Map.
+
+Activity completion: Mark as Done / Undo, daily progress, local storage and backup persistence. Completed activities remain editable and navigable.
