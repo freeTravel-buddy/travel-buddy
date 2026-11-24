@@ -4,3 +4,5 @@ Full screen: select itinerary route and transport mode. More alternative routes 
 Full-screen navigation: the alternative routes button and alert are replaced by a visible information label beside Open Google Map.
 
 Activity completion: Mark as Done / Undo, daily progress, local storage and backup persistence. Completed activities remain editable and navigable.
+
+Nonblocking guide: pauses for form interaction and open dialogs; resumes after selection, field exit or dialog close. Country selection advances to trip details. Hotel coverage advances to save.
